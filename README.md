@@ -14,7 +14,6 @@ toolboxes.
   balance (generation = load + losses, matching to 4 decimal places)
 - All of the 9 bus voltages fall within the ANSI C84.1 ±5% operating band
 
-![Voltage Profile] (voltage_profile.png)
 
 ## What it does
 
